@@ -1,6 +1,6 @@
 {
   "type": "folder",
-  "name": "Jess Shulman",
+  "name": "CMS Template",
   "projectDetails": {
     "pagesLock": true
   },
@@ -9,26 +9,6 @@
       "type": "folder",
       "name": "Projects",
       "index": 0,
-      "details": {
-        "colors": [],
-        "text": []
-      },
-      "children": {}
-    },
-    "1": {
-      "type": "folder",
-      "index": 1,
-      "name": "About",
-      "details": {
-        "colors": [],
-        "text": []
-      },
-      "children": {}
-    },
-    "2": {
-      "type": "folder",
-      "index": 2,
-      "name": "Archives",
       "details": {
         "colors": [],
         "text": []
